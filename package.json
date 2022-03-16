@@ -1,0 +1,20 @@
+{
+  "name": "fiverr-nurse",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "cron": "^1.8.2",
+    "dotenv": "^8.2.0",
+    "node-sound-effects": "^1.2.0",
+    "twitter-api-v2": "^1.6.5",
+    "twit": "^2.2.11",
+    "twitter-v2": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adrenalinerun",
+  "license": "MIT"
+}
