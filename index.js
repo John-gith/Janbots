@@ -4,7 +4,7 @@ var config = require('./configTwit');
 var T = new Twit(config);
 var CronJob = require('cron').CronJob;
 
-const myAccount = '1501678259234299904'; //Ur account to avoid replying to yourself
+const myAccount = '1446220334353506311'; //Ur account to avoid replying to yourself
 var statusTweet = `Wow, I just noticed a new banking protocol on Solana. Go and visit the next generation of finance: @trush_io`; //Add your tweet here
 var isRunning = false;
 var hashtags = ['#metaverse'];
